@@ -16,8 +16,7 @@ A proof-of-concept Command & Control (C2) framework built entirely in Microsoft 
 ## 🛠️ Prerequisites
 1. Microsoft Excel (Desktop version).
 2. A Discord Server and a Discord Bot Token.
-3. [VBA-JSON Library](https://github.com/VBA-tools/VBA-JSON) (`JsonConverter.bas`).
-4. **Microsoft Scripting Runtime** reference enabled in VBA.
+3. **Microsoft Scripting Runtime** reference enabled in VBA.
 
 ## 📦 Installation Guide
 
