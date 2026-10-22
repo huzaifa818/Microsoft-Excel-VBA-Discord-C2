@@ -14,9 +14,9 @@ or go to following steps:
    * Right-click your own profile picture and click **Copy User ID**.
 
 ## Phase 2: Excel Preparation
-1. Open Microsoft Excel (Desktop version). Create a **Blank Workbook**.
-2. **Save as Macro-Enabled:** Go to `File > Save As` and change the file type to **Excel Macro-Enabled Workbook (*.xlsm)**. Name it `DiscordBot.xlsm`.
-3. **Open VBA:** Press `Alt + F11` to open the VBA Editor.
+1. Download this file `DiscordBot.xlsm`
+2. Open Microsoft Excel (Desktop version). 
+3. **Open VBA:** Press `Alt + F11` to open the VBA Editor. (make sure you enable developer option and macros)
 4. **Add Reference:** In the VBA Editor, click `Tools > References`. Scroll down, check the box for **Microsoft Scripting Runtime**, and click OK.
 
 <img width="956" height="502" alt="Screenshot 2026-10-23 013759" src="https://github.com/user-attachments/assets/65065113-120e-4134-b3b6-c9c97805469b" />
