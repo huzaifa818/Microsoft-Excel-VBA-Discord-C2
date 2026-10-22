@@ -1,4 +1,4 @@
-# Excel VBA Discord C2 (Command & Control)
+# Microsoft-Excel VBA Discord C2 (Command & Control)
 
 A proof-of-concept Command & Control (C2) framework built entirely in Microsoft Excel VBA. This script turns an Excel workbook into a remote administration tool that polls a Discord channel for commands, executes them on a Windows machine (e.g., a VirtualBox VM), and returns the output to Discord.
 
